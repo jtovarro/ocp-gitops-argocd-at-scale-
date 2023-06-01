@@ -1,0 +1,10 @@
+replicaCount: 3
+
+image:
+  repository: quay.io/acidonpe/jump-app-back-golang
+  pullPolicy: IfNotPresent
+  tag: latest
+
+service:
+  type: ClusterIP
+  port: 80
