@@ -12,7 +12,7 @@ mantainers:
 
 dependencies:
   - name: app
-    repository: 'https://raw.githubusercontent.com/autstudent/ocp-gitops-argocd-at-scale/main/'
+    repository: 'https://raw.githubusercontent.com/autstudent/ocp-gitops-argocd-at-scale-/main/'
     version: 0.1.0
 
     
