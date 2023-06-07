@@ -1,5 +1,5 @@
 apiVersion: v2
-name: app-umbrella-test
+name: app-umbrella
 description: A Helm chart to deploy an application for Kubernetes
 type: application
 
