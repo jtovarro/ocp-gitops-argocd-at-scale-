@@ -6,13 +6,9 @@ type: application
 version: 0.1.0
 appVersion: 0.1.16
 
-mantainers:
+maintainers:
   - name: Asier Cidon
     email: acidonpe@redhat.com
 
-dependencies:
-  - name: app
-    repository: 'https://raw.githubusercontent.com/autstudent/ocp-gitops-argocd-at-scale-/main/'
-    version: 0.1.0
 
     
